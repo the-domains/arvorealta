@@ -1,7 +1,7 @@
 name: arvorealta
 favicon: null
-layout_spectrum: 0.1641331766732037
-typography_spectrum: 0.07573882979340851
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8485452821478248
+  brandStrength: 0
   lightness: 0.4155544869136065
   saturation: 0.44657311867922544
   rhythmicContrast: 0.1747415077406913
