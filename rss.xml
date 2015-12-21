@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[arvorealta]]></title>
         <description><![CDATA[arvorealta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arvorealta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 19:27:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 19:29:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arvorealta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TIMELESS ]]></title>
+            <description><![CDATA[<article><h1>TIMELESS </h1><p> BE REMARKABLE, NOT LOUD </p></article>]]></description>
+            <link>https://thegrid.ai/arvorealta/timeless/index.html</link>
+            <guid isPermaLink="false">2386d499-8c2e-4bf9-a08e-ccdd7e816b41</guid>
+            <pubDate>Mon, 21 Dec 2015 19:29:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58c33837-be18-46f3-a62f-303e14c99936.jpg">]]></description>
-            <link>undefined5512c388-cc4d-48f0-916e-6570b990eb17/index.html</link>
+            <link>https://thegrid.ai/arvorealta/5512c388-cc4d-48f0-916e-6570b990eb17/index.html</link>
             <guid isPermaLink="false">5512c388-cc4d-48f0-916e-6570b990eb17</guid>
             <pubDate>Mon, 21 Dec 2015 19:26:54 GMT</pubDate>
         </item>
